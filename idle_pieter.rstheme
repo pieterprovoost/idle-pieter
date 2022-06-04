@@ -12,7 +12,6 @@
   background-color: #323232;
   color: #FFFFFF
 }
-
 .rstudio-themes-flat .ace_editor_theme, .rstudio-themes-flat.ace_editor_theme {
   background-color: #ffffff;
   color: black;
